@@ -1,0 +1,23 @@
+.card {
+    display: flex;
+    align-items: center;
+    gap: 90px;
+    padding-left: 65px;
+    margin-bottom: 96px;
+}
+
+.cardImg {
+    max-width: 49.5%;
+}
+
+.cardContent {
+    margin-bottom: 30px;
+}
+
+.imageLeft {
+    flex-direction: row; 
+}
+
+.imageRight {
+    flex-direction: row-reverse;
+}

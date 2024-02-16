@@ -1,0 +1,13 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 140px;
+    margin-bottom: 90px;
+}
+
+.socialContainer {
+    display: flex;
+    justify-content: right;
+    gap: 33px;
+    margin-top: 34px;
+}

@@ -1,0 +1,8 @@
+.footerContact {
+    text-align: right;
+}
+
+.footerContact a {
+    display: block;
+    color: black;
+}
